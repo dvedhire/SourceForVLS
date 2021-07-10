@@ -1,2 +1,2 @@
 # SourceForVLS
-Web page to deploy using CodeDeploy
+Deploy a web page using CodeDeploy
